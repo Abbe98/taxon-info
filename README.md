@@ -22,4 +22,9 @@ Currently available settings:
 
  - `wmno` settings for Wikimedia Norge
  - `default` settings
- 
+
+Example:
+
+```
+http://tools.wmflabs.org/abbe98tools/taxon-info/index.php?wikidata=Q428023&settings=wmno
+```
