@@ -1,0 +1,16 @@
+{
+  "ui": {
+    "image_alt": "Bilde av ",
+    "read_more": "Les mer",
+    "more_languages": "Flere språk",
+    "view_images": "Vise fler bilder",
+    "upload_image": "Laste opp"
+  },
+  "languages": [
+    "no",
+    "nn",
+    "en",
+    "sv",
+    "es"
+  ]
+}
