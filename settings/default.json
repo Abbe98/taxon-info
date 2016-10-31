@@ -1,0 +1,16 @@
+{
+  "ui": {
+    "image_alt": "Image of ",
+    "read_more": "Read more",
+    "more_languages": "More languages",
+    "view_images": "Show images",
+    "upload_image": "Upload image"
+  },
+  "languages": [
+    "en",
+    "es",
+    "de",
+    "fr",
+    "sv"
+  ]
+}
